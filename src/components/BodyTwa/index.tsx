@@ -21,10 +21,6 @@ const BodyTwa = () => {
         Each price is backed by 19 wormhole guardian signatures. Only web application and ton blockchain - no middlewares / no backends.</span>
       <br />
       <span>Core concepts (such as c-ratio) & all of the financial math were inspired by <a href="https://synthetix.io">Synthetix</a> protocol.</span>
-      <h2>Links</h2>
-      <a href={"https://t.me/sydefi"}>t.me/sydefi</a>
-      <a href={"https://t.me/sydefi_chat"}>t.me/sydefi_chat</a>
-      <a href={"https://x.com/sydefi"}>x.com/sydefi</a>
     </HeaderContainer >
   )
 }

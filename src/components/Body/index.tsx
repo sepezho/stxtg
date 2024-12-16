@@ -7,7 +7,7 @@ const loadImage = (imageName: string) => {
 const Body = () => {
   return (
     <HeaderContainer >
-      <a href={'https://app.syde.fi'}>
+      <a href={'https://app.stx.tg'}>
         <Launch>
           Launch app
         </Launch>
@@ -23,13 +23,9 @@ const Body = () => {
       <span>Convert toncoins to synthetic derivatives of all different kinds and feed DeFi ecosystem with them to <u>increase TVL</u>.</span>
       <h2>Tech</h2>
       <span>All of the business logic is implemented on the FunC smart contracts. Prices are fetched directly from the <a href="https://pyth.network">Pyth</a> and <u>verified fully onchain</u> by the smart contracts.
-        Each price is backed by 19 wormhole guardian signatures. Only web application and ton blockchain - no middlewares / no backends.</span>
+        Each price is backed by 19 wormhole guardian signatures. Only web application and ton blockchain - no middlewares / no backends.1</span>
       <br />
       <span>Core concepts (such as c-ratio) & all of the financial math were inspired by <a href="https://synthetix.io">Synthetix</a> protocol.</span>
-      <h2>Links</h2>
-      <a href={"https://t.me/sydefi"}>t.me/sydefi</a>
-      <a href={"https://t.me/sydefi_chat"}>t.me/sydefi_chat</a>
-      <a href={"https://x.com/sydefi"}>x.com/sydefi</a>
     </HeaderContainer >
   )
 }
