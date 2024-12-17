@@ -11,8 +11,6 @@ const BodyTwa = () => {
       <Logo src={loadImage("s.png")} />
       This is the first synthetic derivatives protocol on the TON blockchain.
       <h2>Problem</h2>
-      <span>Toncoin has a $<u>7.2B</u> market cap, but there is only $<u>17M</u> TVL across all TON DeFi.</span>
-      <br />
       <span>Toncoin whales can`t participate in TON DeFi with all of locked value that they have. You can't sell 1B toncoins on the CEX because there is <u>no such demand</u>.</span>
       <h2>Solution</h2>
       <span>Convert toncoins to synthetic derivatives of all different kinds and feed DeFi ecosystem with them to <u>increase TVL</u>.</span>
