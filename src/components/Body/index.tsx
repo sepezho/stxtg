@@ -21,7 +21,7 @@ const Body = () => {
       <span>Convert toncoins to synthetic derivatives of all different kinds and feed DeFi ecosystem with them to <u>increase TVL</u>.</span>
       <h2>Tech</h2>
       <span>All of the business logic is implemented on the FunC smart contracts. Prices are fetched directly from the <a href="https://pyth.network">Pyth</a> and <u>verified fully onchain</u> by the smart contracts.
-        Each price is backed by 19 wormhole guardian signatures. Only web application and ton blockchain - no middlewares / no backends.1</span>
+        Each price is backed by 19 wormhole guardian signatures. Only web application and ton blockchain - no middlewares / no backends.</span>
       <br />
       <span>Core concepts (such as c-ratio) & all of the financial math were inspired by <a href="https://synthetix.io">Synthetix</a> protocol.</span>
     </HeaderContainer >
